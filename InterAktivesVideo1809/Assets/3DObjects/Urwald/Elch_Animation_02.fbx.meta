@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: d849490b6d876f24cb3c102b19e9f39e
+timeCreated: 1504792736
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature.000
+    100002: BodyCtrl
+    100004: Bone
+    100006: Bone.001
+    100008: Bone.001_L
+    100010: Bone.001_L.001
+    100012: Bone.001_L.004
+    100014: Bone.001_L.004_end
+    100016: Bone.001_R
+    100018: Bone.001_R.001
+    100020: Bone.001_R.004
+    100022: Bone.001_R.004_end
+    100024: Bone.002
+    100026: Bone.003
+    100028: Bone.004
+    100030: Bone.005
+    100032: Bone.005_end
+    100034: Bone.006
+    100036: Bone.007
+    100038: Bone.008
+    100040: Bone.009
+    100042: Bone.009_end
+    100044: Bone.010
+    100046: Bone.010_end
+    100048: Bone_L.001
+    100050: Bone_L.002
+    100052: Bone_L.005
+    100054: Bone_L.005_end
+    100056: Bone_R.001
+    100058: Bone_R.002
+    100060: Bone_R.005
+    100062: Bone_R.005_end
+    100064: CtrlLegF.L
+    100066: CtrlLegF.R
+    100068: CtrlLegH.L
+    100070: CtrlLegH.R
+    100072: Cube
+    100074: //RootNode
+    100076: IK_leg_F.L
+    100078: IK_leg_F.L_end
+    100080: IK_legF.R
+    100082: IK_legF.R_end
+    100084: IK_legH.L
+    100086: IK_legH.L_end
+    100088: IK_legH.R
+    100090: IK_legH.R_end
+    100092: IK_poleTargetF.L
+    100094: IK_poleTargetF.L_end
+    100096: IK_poleTargetF.R
+    100098: IK_poleTargetF.R_end
+    100100: IK_poleTargetH.L
+    100102: IK_poleTargetH.L_end
+    100104: IK_poleTargetH.R
+    100106: IK_poleTargetH.R_end
+    100108: LowerF.L
+    100110: LowerF.R
+    100112: LowerH.L
+    100114: LowerH.R
+    100116: Root
+    400000: Armature.000
+    400002: BodyCtrl
+    400004: Bone
+    400006: Bone.001
+    400008: Bone.001_L
+    400010: Bone.001_L.001
+    400012: Bone.001_L.004
+    400014: Bone.001_L.004_end
+    400016: Bone.001_R
+    400018: Bone.001_R.001
+    400020: Bone.001_R.004
+    400022: Bone.001_R.004_end
+    400024: Bone.002
+    400026: Bone.003
+    400028: Bone.004
+    400030: Bone.005
+    400032: Bone.005_end
+    400034: Bone.006
+    400036: Bone.007
+    400038: Bone.008
+    400040: Bone.009
+    400042: Bone.009_end
+    400044: Bone.010
+    400046: Bone.010_end
+    400048: Bone_L.001
+    400050: Bone_L.002
+    400052: Bone_L.005
+    400054: Bone_L.005_end
+    400056: Bone_R.001
+    400058: Bone_R.002
+    400060: Bone_R.005
+    400062: Bone_R.005_end
+    400064: CtrlLegF.L
+    400066: CtrlLegF.R
+    400068: CtrlLegH.L
+    400070: CtrlLegH.R
+    400072: Cube
+    400074: //RootNode
+    400076: IK_leg_F.L
+    400078: IK_leg_F.L_end
+    400080: IK_legF.R
+    400082: IK_legF.R_end
+    400084: IK_legH.L
+    400086: IK_legH.L_end
+    400088: IK_legH.R
+    400090: IK_legH.R_end
+    400092: IK_poleTargetF.L
+    400094: IK_poleTargetF.L_end
+    400096: IK_poleTargetF.R
+    400098: IK_poleTargetF.R_end
+    400100: IK_poleTargetH.L
+    400102: IK_poleTargetH.L_end
+    400104: IK_poleTargetH.R
+    400106: IK_poleTargetH.R_end
+    400108: LowerF.L
+    400110: LowerF.R
+    400112: LowerH.L
+    400114: LowerH.R
+    400116: Root
+    4300000: Cube
+    7400000: Armature.000|Armature.003Action
+    7400002: Walk
+    7400004: Armature.000|Armature.003Action.003
+    9500000: //RootNode
+    13700000: Cube
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.000|Armature.003Action
+      takeName: Armature.000|Armature.003Action
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.000
+        weight: 1
+      - path: Armature.000/Root
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L/IK_legH.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R/IK_legH.R_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005/Bone.005_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010/Bone.010_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L/IK_leg_F.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R/IK_legF.R_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004/Bone.001_L.004_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004/Bone.001_R.004_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L/IK_poleTargetF.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R/IK_poleTargetF.R_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L/IK_poleTargetH.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R/IK_poleTargetH.R_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature.000|Armature.003Action.001
+      firstFrame: 0
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.000
+        weight: 1
+      - path: Armature.000/Root
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L/IK_legH.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R/IK_legH.R_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005/Bone.005_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010/Bone.010_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L/IK_leg_F.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R/IK_legF.R_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004/Bone.001_L.004_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004/Bone.001_R.004_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L/IK_poleTargetF.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R/IK_poleTargetF.R_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L/IK_poleTargetH.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R/IK_poleTargetH.R_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.000|Armature.003Action.003
+      takeName: Armature.000|Armature.003Action.003
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature.000
+        weight: 1
+      - path: Armature.000/Root
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_L/Bone.001_L.001/IK_legH.L/IK_legH.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.001_R/Bone.001_R.001/IK_legH.R/IK_legH.R_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.005/Bone.005_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.002/Bone.001/Bone.003/Bone.010/Bone.010_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone.004/Bone.006/Bone.007/Bone.008/Bone.009/Bone.009_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_L.001/Bone_L.002/IK_leg_F.L/IK_leg_F.L_end
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R
+        weight: 1
+      - path: Armature.000/Root/BodyCtrl/Bone/Bone_R.001/Bone_R.002/IK_legF.R/IK_legF.R_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.L/LowerF.L/Bone_L.005/Bone_L.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005
+        weight: 1
+      - path: Armature.000/Root/CtrlLegF.R/LowerF.R/Bone_R.005/Bone_R.005_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.L/LowerH.L/Bone.001_L.004/Bone.001_L.004_end
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004
+        weight: 1
+      - path: Armature.000/Root/CtrlLegH.R/LowerH.R/Bone.001_R.004/Bone.001_R.004_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.L/IK_poleTargetF.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetF.R/IK_poleTargetF.R_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.L/IK_poleTargetH.L_end
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R
+        weight: 1
+      - path: Armature.000/Root/IK_poleTargetH.R/IK_poleTargetH.R_end
+        weight: 1
+      - path: Cube
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

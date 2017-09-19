@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: bc22dd767438ae84e8e83d20706b1f21
+timeCreated: 1490179657
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bone.027
+    100004: downHip_L
+    100006: downHip_R
+    100008: feather1_L
+    100010: feather1_L_end
+    100012: Feather1_R
+    100014: Feather1_R_end
+    100016: feather2_L
+    100018: feather2_L_end
+    100020: Feather2_R
+    100022: Feather2_R_end
+    100024: feather3_L
+    100026: feather3_L_end
+    100028: Feather3_R
+    100030: Feather3_R_end
+    100032: Food1_L
+    100034: Food1_L_end
+    100036: Food1_R
+    100038: Food1_R_end
+    100040: Food2_R
+    100042: Food2_R_end
+    100044: Foot2_L
+    100046: Foot2_L_end
+    100048: Head_1
+    100050: Head_2
+    100052: Head_2_end
+    100054: hip
+    100056: Leg1_L
+    100058: Leg1_R
+    100060: Leg2_L
+    100062: Leg2_R
+    100064: midLFeath1
+    100066: midLFeath2
+    100068: midLFeath3
+    100070: midLFeath3_end
+    100072: midRFeath1
+    100074: midRFeath2
+    100076: midRFeath3
+    100078: midRFeath3_end
+    100080: MidTailFeath1
+    100082: MidTailFeath2
+    100084: MidTailFeath3
+    100086: MidTailFeath3_end
+    100088: Plane.004
+    100090: shoulder_L
+    100092: sideLFeather1
+    100094: sideLFeather2
+    100096: sideLFeather3
+    100098: sideLFeather3_end
+    100100: sideRFeather1
+    100102: sideRFeather2
+    100104: sideRFeather3
+    100106: sideRFeather3_end
+    100108: Tail_1
+    100110: Tail_2
+    100112: //RootNode
+    100114: wing1_L
+    100116: Wing1_R
+    100118: wing2_L
+    100120: Wing2_R
+    100122: wing3_L
+    100124: Wing3_R
+    100126: wrist
+    400000: Armature
+    400002: Bone.027
+    400004: downHip_L
+    400006: downHip_R
+    400008: feather1_L
+    400010: feather1_L_end
+    400012: Feather1_R
+    400014: Feather1_R_end
+    400016: feather2_L
+    400018: feather2_L_end
+    400020: Feather2_R
+    400022: Feather2_R_end
+    400024: feather3_L
+    400026: feather3_L_end
+    400028: Feather3_R
+    400030: Feather3_R_end
+    400032: Food1_L
+    400034: Food1_L_end
+    400036: Food1_R
+    400038: Food1_R_end
+    400040: Food2_R
+    400042: Food2_R_end
+    400044: Foot2_L
+    400046: Foot2_L_end
+    400048: Head_1
+    400050: Head_2
+    400052: Head_2_end
+    400054: hip
+    400056: Leg1_L
+    400058: Leg1_R
+    400060: Leg2_L
+    400062: Leg2_R
+    400064: midLFeath1
+    400066: midLFeath2
+    400068: midLFeath3
+    400070: midLFeath3_end
+    400072: midRFeath1
+    400074: midRFeath2
+    400076: midRFeath3
+    400078: midRFeath3_end
+    400080: MidTailFeath1
+    400082: MidTailFeath2
+    400084: MidTailFeath3
+    400086: MidTailFeath3_end
+    400088: Plane.004
+    400090: shoulder_L
+    400092: sideLFeather1
+    400094: sideLFeather2
+    400096: sideLFeather3
+    400098: sideLFeather3_end
+    400100: sideRFeather1
+    400102: sideRFeather2
+    400104: sideRFeather3
+    400106: sideRFeather3_end
+    400108: Tail_1
+    400110: Tail_2
+    400112: //RootNode
+    400114: wing1_L
+    400116: Wing1_R
+    400118: wing2_L
+    400120: Wing2_R
+    400122: wing3_L
+    400124: Wing3_R
+    400126: wrist
+    4300000: Plane.004
+    7400000: Normal
+    7400002: Armature|ArmatureAction0
+    9500000: //RootNode
+    13700000: Plane.004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Normal
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/downHip_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Food1_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Food1_L/Food1_L_end
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Foot2_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Foot2_L/Foot2_L_end
+        weight: 1
+      - path: Armature/downHip_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food1_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food1_R/Food1_R_end
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food2_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food2_R/Food2_R_end
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/wrist
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Feather1_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Feather1_R/Feather1_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Feather2_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Feather2_R/Feather2_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R/Feather3_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R/Feather3_R/Feather3_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Head_1
+        weight: 1
+      - path: Armature/hip/wrist/Head_1/Head_2
+        weight: 1
+      - path: Armature/hip/wrist/Head_1/Head_2/Head_2_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/feather1_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/feather1_L/feather1_L_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/feather2_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/feather2_L/feather2_L_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L/feather3_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L/feather3_L/feather3_L_end
+        weight: 1
+      - path: Armature/Tail_1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2/midLFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2/midLFeath3/midLFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2/midRFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2/midRFeath3/midRFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2/MidTailFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2/MidTailFeath3/MidTailFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2/sideLFeather3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2/sideLFeather3/sideLFeather3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2/sideRFeather3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2/sideRFeather3/sideRFeather3_end
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|ArmatureAction0
+      takeName: Armature|ArmatureAction
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/downHip_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Food1_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Food1_L/Food1_L_end
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Foot2_L
+        weight: 1
+      - path: Armature/downHip_L/Leg1_L/Leg2_L/Foot2_L/Foot2_L_end
+        weight: 1
+      - path: Armature/downHip_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food1_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food1_R/Food1_R_end
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food2_R
+        weight: 1
+      - path: Armature/downHip_R/Leg1_R/Leg2_R/Food2_R/Food2_R_end
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/wrist
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Feather1_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Feather1_R/Feather1_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Feather2_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Feather2_R/Feather2_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R/Feather3_R
+        weight: 1
+      - path: Armature/hip/wrist/Bone.027/Wing1_R/Wing2_R/Wing3_R/Feather3_R/Feather3_R_end
+        weight: 1
+      - path: Armature/hip/wrist/Head_1
+        weight: 1
+      - path: Armature/hip/wrist/Head_1/Head_2
+        weight: 1
+      - path: Armature/hip/wrist/Head_1/Head_2/Head_2_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/feather1_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/feather1_L/feather1_L_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/feather2_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/feather2_L/feather2_L_end
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L/feather3_L
+        weight: 1
+      - path: Armature/hip/wrist/shoulder_L/wing1_L/wing2_L/wing3_L/feather3_L/feather3_L_end
+        weight: 1
+      - path: Armature/Tail_1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2/midLFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midLFeath1/midLFeath2/midLFeath3/midLFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2/midRFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/midRFeath1/midRFeath2/midRFeath3/midRFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2/MidTailFeath3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/MidTailFeath1/MidTailFeath2/MidTailFeath3/MidTailFeath3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2/sideLFeather3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideLFeather1/sideLFeather2/sideLFeather3/sideLFeather3_end
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2/sideRFeather3
+        weight: 1
+      - path: Armature/Tail_1/Tail_2/sideRFeather1/sideRFeather2/sideRFeather3/sideRFeather3_end
+        weight: 1
+      - path: Plane.004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

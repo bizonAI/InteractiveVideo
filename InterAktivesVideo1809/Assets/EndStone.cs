@@ -16,19 +16,16 @@ public class EndStone : MonoBehaviour
 
     bool spawn = false;
 
-    // Use this for initialization
-    void Start()
-    {
+    float counter;
 
-    }
-
-    // Update is called once per frame
     void Update()
     {
+        counter += Time.deltaTime;
+
         distance = Vector3.Distance(transform.position, player.position);
 
 
-        if (distance <= triggerDistance && !spawn)
+        if (distance <= triggerDistance && !spawn && counter >= 20)
         {
             spawn = true;
             Instantiate(metero, new Vector3(377.4f, 258.7f, 153.0f), metero.transform.rotation);

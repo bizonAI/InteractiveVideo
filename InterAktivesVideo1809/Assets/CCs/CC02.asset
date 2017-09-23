@@ -29,7 +29,7 @@ MonoBehaviour:
     m_Settings:
       excludeSkybox: 0
   antialiasing:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       method: 0
       fxaaSettings:
@@ -69,13 +69,13 @@ MonoBehaviour:
       screenEdgeMask:
         intensity: 0.03
   depthOfField:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
-      focusDistance: 10
-      aperture: 5.6
+      focusDistance: 18.55
+      aperture: 32
       focalLength: 50
-      useCameraFov: 0
-      kernelSize: 1
+      useCameraFov: 1
+      kernelSize: 0
   motionBlur:
     m_Enabled: 0
     m_Settings:
@@ -97,7 +97,7 @@ MonoBehaviour:
       logMin: -7
       logMax: 14
   bloom:
-    m_Enabled: 1
+    m_Enabled: 0
     m_Settings:
       bloom:
         intensity: 0.67
@@ -114,15 +114,15 @@ MonoBehaviour:
       tonemapping:
         tonemapper: 2
         neutralBlackIn: 0
-        neutralWhiteIn: 13.1
-        neutralBlackOut: -0.018
-        neutralWhiteOut: 12
-        neutralWhiteLevel: 4.8
+        neutralWhiteIn: 16.6
+        neutralBlackOut: -0.014
+        neutralWhiteOut: 12.3
+        neutralWhiteLevel: 0.9
         neutralWhiteClip: 8.76
       basic:
         postExposure: 0
-        temperature: -53
-        tint: 47
+        temperature: -3
+        tint: -19
         hueShift: 0
         saturation: 0.47
         contrast: 1.6
@@ -135,8 +135,8 @@ MonoBehaviour:
         mode: 1
         log:
           slope: {r: 0.9917755, g: 0.98355263, b: 1, a: 0}
-          power: {r: 1, g: 0.6076697, b: 0.82360786, a: 0}
-          offset: {r: 0.9632217, g: 1, b: 0.9837166, a: 0}
+          power: {r: 1, g: 0.84956294, b: 0.92719805, a: 0}
+          offset: {r: 1, g: 0.84142536, b: 0.8745381, a: 0}
         linear:
           lift: {r: 0, g: 0, b: 0, a: 0}
           gamma: {r: 0, g: 0, b: 0, a: 0}
@@ -153,14 +153,14 @@ MonoBehaviour:
               outSlope: 1
               tangentMode: 0
             - serializedVersion: 2
-              time: 0.29705882
-              value: 0.11250001
+              time: 0.29411766
+              value: 0.14685315
               inSlope: 1.443396
               outSlope: 1.443396
               tangentMode: 0
             - serializedVersion: 2
-              time: 0.6852941
-              value: 0.85
+              time: 0.66993463
+              value: 0.71328676
               inSlope: 1
               outSlope: 1
               tangentMode: 0
@@ -305,7 +305,7 @@ MonoBehaviour:
       size: 1
       luminanceContribution: 0.8
   vignette:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       mode: 0
       color: {r: 0, g: 0, b: 0, a: 1}

@@ -6981,7 +6981,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 260990763}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 772c7c3a36a793149bd3368e7cf2326f, type: 3}
   m_Name: 
@@ -7019,7 +7019,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1175.56
-  field of view: 78
+  field of view: 90
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -29269,7 +29269,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.89705884, g: 0.66619813, b: 0.66619813, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 4.93
   m_Range: 10
   m_SpotAngle: 30
@@ -38519,7 +38519,7 @@ ParticleSystem:
   moveWithTransform: 0
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 1
-  randomSeed: -459945188
+  randomSeed: 602386486
   InitialModule:
     serializedVersion: 3
     enabled: 1

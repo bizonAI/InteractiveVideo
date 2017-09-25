@@ -50246,7 +50246,7 @@ Transform:
   m_PrefabParentObject: {fileID: 400226, guid: 757d612c4bb37d74ebe440bf4ed16796, type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1100574404}
-  m_LocalRotation: {x: 0.7355948, y: -0.0017444445, z: 0.67741776, w: 0.0016064416}
+  m_LocalRotation: {x: 0.73559475, y: -0.0017444442, z: 0.6774177, w: 0.0016064413}
   m_LocalPosition: {x: -1.7254733, y: -12.675366, z: 1.8990245}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -105426,6 +105426,7 @@ GameObject:
   - component: {fileID: 2101920673}
   - component: {fileID: 2101920672}
   - component: {fileID: 2101920671}
+  - component: {fileID: 2101920675}
   m_Layer: 0
   m_Name: FlyingOBJ
   m_TagString: Untagged
@@ -105496,6 +105497,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 22
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2101920675
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2101920670}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccbbb7fb5a383ea48840598c50a56422, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fadeOutTexture: {fileID: 2800000, guid: 534521ddecdbea546bf7fbba5d122d24, type: 3}
+  fadeSpeed: 0.1
+  fadeStartTime: 52
 --- !u!1001 &2103949386
 Prefab:
   m_ObjectHideFlags: 0

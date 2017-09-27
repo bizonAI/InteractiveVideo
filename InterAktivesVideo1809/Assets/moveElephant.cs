@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class moveAnimal : MonoBehaviour {
+public class moveElephant : MonoBehaviour {
 
     Rigidbody rigid;
     float distance;
@@ -8,6 +8,7 @@ public class moveAnimal : MonoBehaviour {
     public Transform player;
 
     public float triggerDistance;
+    public float actionTriggerDistance;
 
     [SerializeField]
     float showDistance;
@@ -16,7 +17,6 @@ public class moveAnimal : MonoBehaviour {
 
     bool troeten;
 
-
     public float moveSpeed = 1;
 
 	void Start () {
@@ -24,7 +24,12 @@ public class moveAnimal : MonoBehaviour {
 	}
 	
 	void Update () {
-        rigid.velocity = transform.right * -moveSpeed;
+
+        if (distance <= actionTriggerDistance)
+        {
+            rigid.velocity = transform.right * -moveSpeed;
+        }
+        
 
 
         distance = Vector3.Distance(transform.position, player.position);

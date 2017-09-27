@@ -9575,7 +9575,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneName: Scene_005
-  sceneTime: 49
+  sceneTime: 35
 --- !u!4 &2051891999
 Transform:
   m_ObjectHideFlags: 0
